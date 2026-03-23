@@ -11,7 +11,7 @@ This midpoint indicator assesses the potential deficit of resources resulting fr
 
 # Characterization factors
 
-Developped characterization factors integrated in version 2.2.1 of IMPACT World+ are available here: https://zenodo.org/records/18892673
+Developped characterization factors integrated in version 2.2.1 of IMPACT World+ are available on openLCA, SimaPro and brightway here: https://zenodo.org/records/18892673
 
 # Author 
 Titouan Greffe (greffe.titouan@uqam.ca)
