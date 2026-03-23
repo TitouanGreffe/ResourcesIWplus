@@ -1,5 +1,8 @@
 # Additional energy Cost Potential (ACP) and Resource Services Deficit Assessment (RESEDA) methods
-Python code to generate marginal characterization factors using the WILMFLo model (https://github.com/TitouanGreffe/WILMFlo) introduced in Greffe et al. 2025 (https://doi.org/10.1016/j.resconrec.2025.108482).
+Python code to generate marginal characterization factors of metals and fossil resource dissipative flows using the WILMFLo model (https://github.com/TitouanGreffe/WILMFlo) introduced in Greffe et al. 2025 (https://doi.org/10.1016/j.resconrec.2025.108482).
+
+The elemental composition of elementary flows in life cycle inventory databases, such as ecoinvent, are derived using _cirpy_ and _pubchempy_ python packages. Regarding the characterization of metals dissipative flows, we characterize emissions of substances to the environment which contain at least one characterized element (e.g. copper). Regarding the characterization of fossil dissipative flows, we characterize emissions of fossil carbon dioxide, fossil methane and fossil carbon monoxide using the ratio of carbon content in emissions relatively to the carbon content in both crude oil, natural gas and coal.
+An article presenting in detail the classification method will be submitted soon and will be available in a pre-print by the end of 2026.
 
 
 ## Adaptation to resources services loss: the ACP method
