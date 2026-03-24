@@ -7,8 +7,8 @@ An article entitled "Operationalizing the characterization of potential impacts 
 
 # Impact pathways
 
-![Impact pathways from resource dissipation to damage on ecosystem services through adaptation and respectively non-adaptation pathways. The first one addressed by the additional energy cost potential (ACP, blue arrows) and the second one by the Resource Services Deficit Assessment (RESEDA, red arrows)](doc/impact_pathway.png)
-
+![Impact pathways](doc/impact_pathway.png)
+*Figure 1. Impact pathways from resource dissipation to damage on ecosystem services through adaptation and respectively non-adaptation pathways. The first one addressed by the additional energy cost potential (ACP, blue arrows) and the second one by the Resource Services Deficit Assessment (RESEDA, red arrows).*
 
 ## Adaptation to resources services loss: the ACP method
 This midpoint indicator assesses the additional effort to extract resources, resulting from the adaptation to a marginal dissipative flow of resources. This additional cost is assessed in terms of MJ, i.e., the additional energy required to extract the resource, because of dissipation.
